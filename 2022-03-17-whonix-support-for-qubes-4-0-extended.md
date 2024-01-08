@@ -49,5 +49,5 @@ all set. This announcement doesn't change anything for you.
 
 
 [originally announced]: /news/2022/02/04/qubes-4-1-0/
-[supported for six months]: /doc/supported-releases/#qubes-os
-[support policy]: /doc/supported-releases/#note-on-whonix-support
+[supported for six months]: https://qubes-doc-rst.readthedocs.io/en/latest/user/downloading-installing-upgrading/supported-releases.html#qubes-os
+[support policy]: https://qubes-doc-rst.readthedocs.io/en/latest/user/downloading-installing-upgrading/supported-releases.html#note-on-whonix-support

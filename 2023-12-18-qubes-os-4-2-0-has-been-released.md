@@ -67,13 +67,13 @@ As a reminder, we published the following special announcement in [Qubes Canary 
 
 > We plan to create a new Release Signing Key (RSK) for Qubes OS 4.2. Normally, we have only one RSK for each major release. However, for the 4.2 release, we will be using Qubes Builder version 2, which is a complete rewrite of the Qubes Builder. Out of an abundance of caution, we would like to isolate the build processes of the current stable 4.1 release and the upcoming 4.2 release from each other at the cryptographic level in order to minimize the risk of a vulnerability in one affecting the other. We are including this notice as a canary special announcement since introducing a new RSK for a minor release is an exception to our usual RSK management policy.
 
-As always, we encourage you to [authenticate](/security/pack/#how-to-obtain-and-authenticate) this canary by [verifying its PGP signatures](/security/verifying-signatures/). Specific instructions are also included in the [canary announcement](/news/2022/09/14/canary-032/).
+As always, we encourage you to [authenticate](https://qubes-doc-rst.readthedocs.io/en/latest/project-security/security-pack.html#how-to-obtain-and-authenticate) this canary by [verifying its PGP signatures](/security/verifying-signatures/). Specific instructions are also included in the [canary announcement](/news/2022/09/14/canary-032/).
 
-As with all Qubes signing keys, we also encourage you to [authenticate](/security/verifying-signatures/#how-to-import-and-authenticate-release-signing-keys) the new Qubes OS Release 4.2 Signing Key, which is available in the [Qubes Security Pack (qubes-secpack)](/security/pack/) as well as on the [downloads](/downloads/) page under the Qubes OS 4.2.0-rc5 ISO.
+As with all Qubes signing keys, we also encourage you to [authenticate](https://qubes-doc-rst.readthedocs.io/en/latest/project-security/verifying-signatures.html#how-to-import-and-authenticate-release-signing-keys) the new Qubes OS Release 4.2 Signing Key, which is available in the [Qubes Security Pack (qubes-secpack)](/security/pack/) as well as on the [downloads](/downloads/) page under the Qubes OS 4.2.0-rc5 ISO.
 
 ## Support for older releases
 
-In accordance with our [release support policy](/doc/supported-releases/#qubes-os), Qubes 4.1 will remain supported for six months after the release of Qubes 4.2, until 2024-06-18. After that, Qubes 4.1 will no longer receive security updates or bug fixes.
+In accordance with our [release support policy](https://qubes-doc-rst.readthedocs.io/en/latest/user/downloading-installing-upgrading/supported-releases.html#qubes-os), Qubes 4.1 will remain supported for six months after the release of Qubes 4.2, until 2024-06-18. After that, Qubes 4.1 will no longer receive security updates or bug fixes.
 
 [Whonix templates](https://www.whonix.org/wiki/Qubes) are created and supported by our partner, the [Whonix Project](https://www.whonix.org/). The Whonix Project has set its own support policy for Whonix templates in Qubes. For more information, see [Qubes-Whonix version support policy](https://www.whonix.org/wiki/About#Qubes_Hosts).
 
